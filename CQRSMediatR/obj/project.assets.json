@@ -1109,11 +1109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smkwo\\Downloads\\1.dotnet-zero-to-hero-main\\1\\004-cqrs-and-mediatr-in-aspnet-core\\CQRSMediatR\\CQRSMediatR.csproj",
+      "projectUniqueName": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-EF-InMemory-MediatR-CQRS\\CQRSMediatR\\CQRSMediatR.csproj",
       "projectName": "CQRSMediatR",
-      "projectPath": "C:\\Users\\smkwo\\Downloads\\1.dotnet-zero-to-hero-main\\1\\004-cqrs-and-mediatr-in-aspnet-core\\CQRSMediatR\\CQRSMediatR.csproj",
+      "projectPath": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-EF-InMemory-MediatR-CQRS\\CQRSMediatR\\CQRSMediatR.csproj",
       "packagesPath": "C:\\Users\\smkwo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smkwo\\Downloads\\1.dotnet-zero-to-hero-main\\1\\004-cqrs-and-mediatr-in-aspnet-core\\CQRSMediatR\\obj\\",
+      "outputPath": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-EF-InMemory-MediatR-CQRS\\CQRSMediatR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

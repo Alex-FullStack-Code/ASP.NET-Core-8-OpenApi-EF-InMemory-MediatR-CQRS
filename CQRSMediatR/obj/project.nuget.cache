@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tjd3nvULavY=",
+  "dgSpecHash": "0lrhn/7SG8s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\smkwo\\Downloads\\1.dotnet-zero-to-hero-main\\1\\004-cqrs-and-mediatr-in-aspnet-core\\CQRSMediatR\\CQRSMediatR.csproj",
+  "projectFilePath": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-EF-InMemory-MediatR-CQRS\\CQRSMediatR\\CQRSMediatR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smkwo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\smkwo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
