@@ -1,3 +1,5 @@
+# CQRS and MediatR in ASP.NET Core - Building Scalable Systems 
+### https://codewithmukesh.com/blog/cqrs-and-mediatr-in-aspnet-core/
 ```
 public record ListProductsQuery : IRequest<List<ProductDto>>;
 Every Query / Command object would inherit from 
